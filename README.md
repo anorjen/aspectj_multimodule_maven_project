@@ -1,3 +1,3 @@
 # Logging methods with AspectJ in a Spring application
 
-> Refer to [Logging methods with AspectJ in a Spring application](https://mflash.dev/blog/2020/09/13/dev.mflash.guides.spring.aop.logging-methods-with-aspectj-in-a-spring-application/)
+Based on [Logging methods with AspectJ in a Spring application](https://github.com/Microflash/spring-guides/tree/main/aop-method-logging)
